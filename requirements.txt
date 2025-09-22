@@ -1,0 +1,6 @@
+# Requirements for AI Music Recommendation System
+opencv-python
+numpy
+deepface
+vlc
+python-dotenv
