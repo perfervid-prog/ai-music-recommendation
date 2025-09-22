@@ -17,7 +17,7 @@ This project is an AI-powered music recommendation system that detects user emot
 ## Setup Instructions
 1. **Clone the repository:**
    ```cmd
-   git clone <repository-url>
+   git clone https://github.com/perfervid-prog/ai-music-recommendation.git
    cd "ai music recommendation"
    ```
 2. **Create and activate a virtual environment:**
