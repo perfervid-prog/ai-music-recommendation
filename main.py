@@ -2,6 +2,7 @@ from emotion_detection import DetectEmotion
 from music_player import MusicPlayer
 
 def main():
+    print("The application might run slow at the first time. Please wait...")
     detect_emotion = DetectEmotion()
     player = MusicPlayer()
 
